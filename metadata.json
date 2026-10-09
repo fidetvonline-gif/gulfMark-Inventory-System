@@ -1,0 +1,6 @@
+{
+  "name": "Gulfmart Inventory System",
+  "description": "Professional Web-Based Inventory Management System for Gulfmart Supermarket with role-based access, stock-in/out, adjustments, low-stock alerts, reports, and audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
